@@ -10,4 +10,4 @@ if len(args) < 1:
 else:
     print(f'parameters: {len(args)}')
     for param in args:
-        print(f'{param}: ')
+        print(f'{param}: {len(param)}')
