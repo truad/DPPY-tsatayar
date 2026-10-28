@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 number_text = input('Enter number\n')
+
 number = int(number_text)
 
 i = 0 
