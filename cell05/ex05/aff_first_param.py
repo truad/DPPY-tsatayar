@@ -6,7 +6,7 @@ args = sys.argv
 
 i = 1
 
-while i < len(sys.argv):
-    arg = sys.argv[i]
+while i < len(args):
+    arg = args[i]
     if arg.isalpha(): print(arg); break;
     i += 1
