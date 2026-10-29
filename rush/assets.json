@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "name": "Microsoft MX2",
+        "category": "Mouse",
+        "serial_number": "231",
+        "assigned_to": "Joe",
+        "status": "Active",
+        "date_added": "2026-10-30 02:53:30"
+    }
+]

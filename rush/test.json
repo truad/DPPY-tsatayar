@@ -1,0 +1,20 @@
+[
+    {
+        "id": 3,
+        "name": "MX5",
+        "category": "Mouse",
+        "serial_number": "222",
+        "assigned_to": "me",
+        "status": "Active",
+        "date_added": "2026-10-30 02:09:07"
+    },
+    {
+        "id": 4,
+        "name": "iPod",
+        "category": "Mobile",
+        "serial_number": "234523",
+        "assigned_to": "you",
+        "status": "Active",
+        "date_added": "2026-10-30 02:18:10"
+    }
+]
