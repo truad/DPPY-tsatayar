@@ -10,7 +10,8 @@ if len(sys.argv) == 3:
 
     result = re.findall(pattern, content)
     result_count = len(result)
-    if result_count > 1 :
+
+    if result_count >= 1 :
         print(result_count)
     else:
         print('none')
